@@ -27,8 +27,8 @@ AdColonyはアプリケーションのあらゆる場所にHD動画広告を配�
 ###Contents###
 * [Project Setup](#project-setup)
 * [Showing Videos Ads](#showing-videos-ads)
-    * [Showing Interstitial Videos](#showing-interstitial-videos)
     * [Showing V4VC Videos](#showing-v4vc-videos)
+    * [Showing Interstitial Videos](#showing-interstitial-videos)
     * [Showing Instant Feed™ Videos](#Showing Instant Feed™ Videos)
 * [よくある質問](#よくある質問)
     * [基本情報に関して](#基本情報に関して)
